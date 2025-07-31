@@ -29,6 +29,13 @@ This repository contains multiple C#/.NET-based assessment projects developed as
 3. Set the desired project (e.g., `OpenSenseMapAssessment`) as the Startup Project.
 4. Run the project and test the APIs using Swagger UI or Postman.
 
+## 🛠️ General Assessments Setup    
+
+- Both GeneralAssessment1 and GeneralAssessment2 projects are included under a single solution. To run any of the general assessment programs:
+1. Open the solution in Visual Studio.
+2. Right-click on the project you want to run and select "Set as Startup Project".
+3. Build and run the application. 
+
 ## ✅ Notes
 
 - Make sure to restore NuGet packages before building the solution.
