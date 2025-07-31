@@ -1,0 +1,8 @@
+C:\MY\Projects\JOB Interview Projects\GeneralAssessment1\bin\Debug\GeneralAssessment1.exe.config
+C:\MY\Projects\JOB Interview Projects\GeneralAssessment1\bin\Debug\GeneralAssessment1.exe
+C:\MY\Projects\JOB Interview Projects\GeneralAssessment1\bin\Debug\GeneralAssessment1.pdb
+C:\MY\Projects\JOB Interview Projects\GeneralAssessment1\obj\Debug\GeneralAssessment1.csproj.AssemblyReference.cache
+C:\MY\Projects\JOB Interview Projects\GeneralAssessment1\obj\Debug\GeneralAssessment1.csproj.SuggestedBindingRedirects.cache
+C:\MY\Projects\JOB Interview Projects\GeneralAssessment1\obj\Debug\GeneralAssessment1.csproj.CoreCompileInputs.cache
+C:\MY\Projects\JOB Interview Projects\GeneralAssessment1\obj\Debug\GeneralAssessment1.exe
+C:\MY\Projects\JOB Interview Projects\GeneralAssessment1\obj\Debug\GeneralAssessment1.pdb
